@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Srikanthraparthi/register/static/css/main.0d9819c8.css",
+    "main.js": "/Srikanthraparthi/register/static/js/main.3ad0fc9d.js",
+    "static/js/488.c60f8623.chunk.js": "/Srikanthraparthi/register/static/js/488.c60f8623.chunk.js",
+    "index.html": "/Srikanthraparthi/register/index.html",
+    "main.0d9819c8.css.map": "/Srikanthraparthi/register/static/css/main.0d9819c8.css.map",
+    "main.3ad0fc9d.js.map": "/Srikanthraparthi/register/static/js/main.3ad0fc9d.js.map",
+    "488.c60f8623.chunk.js.map": "/Srikanthraparthi/register/static/js/488.c60f8623.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d9819c8.css",
+    "static/js/main.3ad0fc9d.js"
+  ]
+}
